@@ -1,6 +1,8 @@
 # AI_Portfolio
 Python Developer and AI/ML Engineer passionate about building intelligent applications using Machine Learning, Generative AI, RAG, LLMs, and Agentic AI. Skilled in Python, FastAPI, LangChain, LangGraph, CrewAI, and vector databases, focused on solving real-world problems through innovative AI solutions.
 
+# Link to portfolio in Live :- https://praveenkumarreddy12.github.io/AI_Portfolio/Ai_Portfolio.html
+
 
 # Praveen Kumar Reddy: AI Engineer Portfolio
 
